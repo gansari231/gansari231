@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Unity" width="30px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Unity" width="30px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>]
 [<img align="left" alt="CSharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CPP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JAVA" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />]
