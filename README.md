@@ -17,6 +17,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/its_gufraan_not_gurfaan/)
 
+[<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="padding-right:10px;" />]
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
