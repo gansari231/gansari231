@@ -11,8 +11,8 @@
 
 [![website](./img/globe-dark.svg)](https://ansarigufraan0.wixsite.com/website)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/GufraanAnsari_)
+[![website](./img/twitter-dark.svg)](https://twitter.com/GufraanAnsari_)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gufraan-ansari-30448b196/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gufraan-ansari-30448b196/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/its_gufraan_not_gurfaan/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/its_gufraan_not_gurfaan/)
