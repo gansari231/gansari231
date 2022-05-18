@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ansarigufraan0.wixsite.com/website)
+[![website](./img/globe-dark.svg)](https://ansarigufraan0.wixsite.com/website)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/GufraanAnsari_)
 &nbsp;&nbsp;
