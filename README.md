@@ -36,6 +36,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gansari231&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
+<br/><br/>
+
 ### Snake Eating My Contribution Graph
 
 ![snake gif](https://github.com/gansari231/GufraanAnsari/blob/output/github-contribution-grid-snake.gif)
