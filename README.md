@@ -33,7 +33,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gansari231)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Gufraan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gansari231&theme=github_dark)
-  
- ### Snake Eatting My Contributions
-  
- ![snake gif](https://github.com/gansari231/GufraanAnsari/blob/output/github-contribution-grid-snake.gif)
