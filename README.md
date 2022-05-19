@@ -36,4 +36,4 @@
   
  ### Snake Eatting My Contributions
   
- ![snake gif](https://github.com/gansari231/gansari231/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/gansari231/GufraanAnsari/blob/output/github-contribution-grid-snake.gif)
