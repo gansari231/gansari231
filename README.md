@@ -28,12 +28,12 @@
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
 
-<br>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gansari231)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="Gufraan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gansari231&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
