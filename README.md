@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gufraan-ansari-30448b196/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/its_gufraan_not_gurfaan/)
+
 
 
 ### Languages and Tools:
