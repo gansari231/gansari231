@@ -2,15 +2,12 @@
 
 ## I'm a Developer, Gamer, and a student!!!!
 
-- 🌱 I’m currently learning game development from Outscal 🧑🏻‍💻
-- 👯 I’m looking forward to grab whatever knowledge I can from the experts of the gaming industry 📑
-- 🥅 2022 Goals : To make kickass games alongside the most famous gaming studios of all times 🎮
+- 🌱 I am a dedicated and detail-oriented developer with 2 years of experience in C# and .NET development 🧑🏻‍💻
+- 👯 My skills in writing clean and reliable backend logic, alongside integrating APIs, enable me to effectively support application features. 📑
 - ⚡ Fun fact: I love working out, trekking and have a keen eye for movies and series that involve thrillers and suspense 🧗🏻‍♂️
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://ansarigufraan0.wixsite.com/website)
-&nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/GufraanAnsari_)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gufraan-ansari-30448b196/)
