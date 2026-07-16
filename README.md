@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Gamer, and a student!!!!
 
-- 🌱 I am a backend-focused developer with 2+ years of experience in Java, C#, and building scalable RESTful APIs for real-time applications 🧑🏻‍💻
+- 🌱 I am a backend-focused developer with 3 years of experience in Java, C#, and building scalable RESTful APIs for real-time applications 🧑🏻‍💻
 - 👯 I specialize in designing clean, modular architectures (MVC/layered) and integrating client-server systems, enabling efficient data flow and reliable gameplay/backend features 📑
 - ⚡ Fun fact: I enjoy working out, trekking, and exploring thriller & suspense movies—always drawn to problem-solving both in code and real life 🧗🏻‍♂️
 
