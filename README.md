@@ -17,16 +17,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="ASP.NET" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
-<img align="left" alt="CSharp" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>
-<img align="left" alt="SQL Server" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-<img align="left" alt="HTML5" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
-<img align="left" alt="CSS3" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
-<img align="left" alt="JS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+<img align="left" alt="Java" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+<img align="left" alt="Spring Boot" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+<img align="left" alt="Postman" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+<img align="left" alt="Apache Kafka" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg"/>
+<img align="left" alt="MySQL" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+<img align="left" alt="Hibernate" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg"/>
+<img align="left" alt="Maven" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
+<img align="left" alt="Git" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
 <img align="left" alt="GitHub" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
-<img align="left" alt="Unity" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"/>
-<img align="left" alt="CPP" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>
-
+<img align="left" alt="Docker" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+<img align="left" alt="Kubernetes" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg"/>
+<img align="left" alt="IntelliJ IDEA" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
 
 <br/><br/>
 
