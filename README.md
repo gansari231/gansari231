@@ -1,6 +1,6 @@
 # Hi there, I'm  <a href="https://www.linkedin.com/in/gufraan-ansari-30448b196/" target="_blank"> Gufraan </a>👋
 
-## I'm a Developer, Gamer, and a student!!!!
+## I'm a Developer & Gamer!!!!
 
 - 🌱 I am a backend-focused developer with 3 years of experience in Java, C#, and building scalable RESTful APIs for real-time applications 🧑🏻‍💻
 - 👯 I specialize in designing clean, modular architectures (MVC/layered) and integrating client-server systems, enabling efficient data flow and reliable gameplay/backend features 📑
